@@ -60,7 +60,7 @@ In each settlement period the system operator publishes the de-rated margin fore
 * At 1200 hours on each calendar day for all Settlement Periods for which Gate Closure has not yet passed and which occur within the current Operational Day or the following Operational Day; and
 * At eight, four, two and one hour(s) prior to the beginning of the Settlement Period to which the De-Rated Margin Forecast relates.
 
-These figures will be updated on an hourly basis, the last update was at: 2022-12-08 16:45
+These figures will be updated on an hourly basis, the last update was at: 2022-12-08 17:10
 
 <br>
 
